@@ -52,7 +52,7 @@
                             <a class="nav-link" href="#team">Team</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#portfolio">Portfolio</a>
+                            <a class="nav-link" href="template">Template</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#newsletter">Login</a>
