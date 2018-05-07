@@ -1,45 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
-
     <head>
-
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <!--<meta http-equiv="x-ua-compatible" content="ie=edge">-->
-
         <title>Adventurer – One Page Creative HTML5 Page Template</title>
-
         <!-- Font Awesome -->
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,800,600,300,300italic,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
-
         <!-- Material Design Bootstrap -->
         <link href="assets/css/materialize.css" rel="stylesheet">
-
         <!-- Magnific-popup css -->
         <link href="assets/css/magnific-popup.css" rel="stylesheet">
-
         <!-- Bootstrap core CSS -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-
         <!-- Material Design Bootstrap -->
         <!--<link href="css/progressbar.css" rel="stylesheet">-->
-
         <!-- Material Design Bootstrap -->
         <link href="assets/css/mdb.min.css" rel="stylesheet">
-
-
-
         <!-- Your custom styles (optional) -->
         <link href="assets/css/style.css" rel="stylesheet">
         <link href="assets/css/responsive.css" rel="stylesheet">
-
     </head>
 
     <body data-spy="scroll" data-target=".navbar-desktop">
         <!-- Start your project here-->
         <!--Navbar-->
-
         <div class='preloader'><div class='loaded'>&nbsp;</div></div>
 
         <nav class="navbar navbar-fixed-top navbar-light bg-faded">
@@ -54,7 +40,7 @@
                     <!--Links-->
                     <ul class="nav navbar-nav pull-right hidden-md-down text-uppercase">
                         <li class="nav-item">
-                            <a class="nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="#home">Home <span class="sr-only"/span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#about">About</a>
@@ -69,7 +55,7 @@
                             <a class="nav-link" href="#portfolio">Portfolio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#newsletter">Faq</a>
+                            <a class="nav-link" href="#newsletter">Login</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" target="_blank" href="#!"><i class="fa fa-search fa-lg"></i></a>
@@ -83,7 +69,7 @@
 
                     <ul class="side-nav" id="mobile-menu">
                         <li class="nav-item">
-                            <a class="nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="#home">Home <span class="sr-only"</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#about">About</a>
@@ -98,7 +84,7 @@
                             <a class="nav-link" href="#newsletter">Support</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#!">Faq</a>
+                            <a class="nav-link" href="#!">Login</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#!"><i class="fa fa-search fa-lg"></i></a>
@@ -133,7 +119,7 @@
                     </div>
                 </li>
                 <li>
-                    <img src="img/homebenner.jpg"> <!-- random image -->
+                    <img src="assets/img/homebenner.jpg"> <!-- random image -->
                     <div class="caption center-align">
                         <div class="single_home">
                             <h1>ADVENTURER</h1>
@@ -143,7 +129,7 @@
                     </div>
                 </li>
                 <li>
-                    <img src="img/homebenner.jpg"> <!-- random image -->
+                    <img src="assets/img/homebenner.jpg"> <!-- random image -->
                     <div class="caption center-align">
                         <div class="single_home">
                             <h1>ADVENTURER</h1>
@@ -216,7 +202,7 @@
                                 <div class="row">
                                     <div class="col-md-3">
                                         <div class="single_team white-text m-t-2 wow zoomIn">
-                                            <img src="img/team1.jpg" alt="team" />
+                                            <img src="assets/img/team1.jpg" alt="team" />
                                             <div class="single_team_overlay">
                                                 <h4>Mahabubul Islam</h4>
                                                 <p>Html-Coder</p>
@@ -232,7 +218,7 @@
                                     </div>
                                     <div class="col-md-3">
                                         <div class="single_team white-text m-t-2 wow zoomIn">
-                                            <img src="img/team2.jpg" alt="team" />
+                                            <img src="assets/img/team2.jpg" alt="team" />
                                             <div class="single_team_overlay">
                                                 <h4>Mahabubul Islam</h4>
                                                 <p>Html-Coder</p>
@@ -248,7 +234,7 @@
                                     </div>
                                     <div class="col-md-3">
                                         <div class="single_team white-text m-t-2 wow zoomIn">
-                                            <img src="img/team3.jpg" alt="team" />
+                                            <img src="assets/img/team3.jpg" alt="team" />
                                             <div class="single_team_overlay">
                                                 <h4>Mahabubul Islam</h4>
                                                 <p>Html-Coder</p>
@@ -264,7 +250,7 @@
                                     </div>
                                     <div class="col-md-3">
                                         <div class="single_team white-text m-t-2 wow zoomIn">
-                                            <img src="img/team4.jpg" alt="team" />
+                                            <img src="assets/img/team4.jpg" alt="team" />
                                             <div class="single_team_overlay">
                                                 <h4>Mahabubul Islam</h4>
                                                 <p>Html-Coder</p>
@@ -287,115 +273,13 @@
             <hr />
         </section><!-- End of Team section -->
 
-
-        <!-- End of Portfolio Section -->
-
-
-
-        <!-- End of works Section -->
-
-
-        <!-- End of Newsletter section -->
-
-
-
-        <section id="footer" class="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="main_footer_area white-text p-b-3">
-                        <div class="col-md-3">
-                            <div class="single_f_widget p-t-3 wow fadeInUp">
-                                <img src="img/logo.png" alt="" />
-                                <div class="single_f_widget_text">
-                                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
-                                        The point of using Lorem Ipsum is that it has a more-or-less normal.</p>
-                                    <div class="socail_f_widget">
-                                        <a href="#!" ><i class="fa fa-facebook"></i></a>
-                                        <a href="#!" ><i class="fa fa-google-plus"></i></a>
-                                        <a href="#!" ><i class="fa fa-twitter"></i></a>
-                                        <a href="#!" ><i class="fa fa-vimeo"></i></a>
-                                        <a href="#!" ><i class="fa fa-linkedin"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="single_f_widget m-t-3 wow fadeInUp">
-                                <h4 class="text-lowercase">Some features</h4>
-                                <div class="single_f_widget_text f_reatures">
-                                    <ul>
-                                        <li><i class="fa fa-check"></i>Lorem ipsum dolor sit amet</li>
-                                        <li><i class="fa fa-check"></i>Aliquam tincidunt cons ectetuer</li>
-                                        <li><i class="fa fa-check"></i>Vestibulum auctor dapibus con</li>
-                                        <li><i class="fa fa-check"></i>Lorem ipsum dolor sit amet auctor dapibus</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="single_f_widget m-t-3 wow fadeInUp">
-                                <h4 class="text-lowercase">Tags</h4>
-                                <div class="single_f_widget_text f_tags">
-                                    <a href="#!">corporate</a>
-                                    <a href="#!">agency</a>
-                                    <a href="#!">portfolio</a>
-                                    <a href="#!">blog</a>
-                                    <a href="#!">elegant</a>
-                                    <a href="#!">professional</a>
-                                    <a href="#!">business</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="single_f_widget m-t-3 wow fadeInUp">
-                                <h4 class="text-lowercase">Flicker Posts</h4>
-                                <div class="single_f_widget_text f_flicker">
-                                    <img src="img/flipcker1.jpg" alt="" /> 
-                                    <img src="img/flipcker2.jpg" alt="" /> 
-                                    <img src="img/flipcker3.jpg" alt="" /> 
-                                    <img src="img/flipcker4.jpg" alt="" /> 
-                                    <img src="img/flipcker3.jpg" alt="" /> 
-                                    <img src="img/flipcker2.jpg" alt="" /> 
-                                    <img src="img/flipcker4.jpg" alt="" /> 
-                                    <img src="img/flipcker1.jpg" alt="" /> 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+<!--Footer-->
+        <div id="footer-wrapper">
+            <div id="footer">
+            <?php $this->load->view('footer') ?>
             </div>
-            <div class="main_coppyright">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-6 col-xs-12">
-                            <div class="copyright_text m-t-2 text-xs-center">
-                                <p class="wow zoomIn" data-wow-duration="1s">Made with <i class="fa fa-heart"></i> by <a target="_black" href="http://bootstrapthemes.co"> Bootstrap Themes</a> 2016. All Rights Reserved</p>
-                            </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="socail_coppyright text-sm-right m-t-2 text-xs-center wow zoomIn">
-                                <a href="#!"><i class="fa fa-facebook"></i></a>
-                                <a href="#!"><i class="fa fa-twitter"></i></a>
-                                <a href="#!"><i class="fa fa-google-plus"></i></a>
-                                <a href="#!"><i class="fa fa-rss"></i></a>
-                                <a href="#!"><i class="fa fa-vimeo"></i></a>
-                                <a href="#!"><i class="fa fa-pinterest"></i></a>
-                                <a href="#!"><i class="fa fa-linkedin"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-
-
-
-
-
-        <!-- /Start your project here-->
-
+        </div>
+<!--end of footer-->
 
         <!-- SCRIPTS -->
 
