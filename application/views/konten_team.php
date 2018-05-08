@@ -4,7 +4,7 @@
                     <div class="col-sm-12">
                         <div class="main_team_area m-y-3">
                             <div class="head_title center  wow fadeInUp">
-                                <h2>Meet Our Team</h2>
+                                <h2>Baru Tahu Kami</h2>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec odio ipsum. Suspendisse
                                     cursus malesuada facilisis.Lorem ipsum dolor sit amet, consectetur facilisis.</p>
                             </div>

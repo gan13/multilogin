@@ -32,7 +32,7 @@
                 <?php $this->load->view('navbar') ?>
             </div>
            <div id="content">
-                <?php $this->load->view('konten') ?>
+                <?php $this->load->view($main_view) ?>
            </div>
           
          
