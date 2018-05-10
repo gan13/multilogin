@@ -1,18 +1,19 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 
 
-class Profil extends MY_Controller
+class Test extends CI_Controller
 {
 	public function __construct()
     {
         parent::__construct();
-        $this->halaman = 'profil';
+        $this->load->library('encrypt'); 
+        $this->halaman = 'test';
     }
-
+   
 	public function index($page = null)
 	{
         $halaman    = $this->halaman;
-        $main_view  = 'profil/index';
-		$this->load->view('t_profil', compact('halaman', 'main_view'));
+        $main_view  = 'test/index';
+		$this->load->view('template', compact('halaman', 'main_view'));
 	}
 }
