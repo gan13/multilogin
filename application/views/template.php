@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <!--<meta http-equiv="x-ua-compatible" content="ie=edge">-->
-        <title>SOSMED FASTIKOM</title>
+        <title link rel="icon" href="<?= base_url('assets/img/icon.jpg');?>" type="image/gif" sizes="16x16">SOSMED FASTIKOM</title>
         <!-- Font Awesome -->
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,800,600,300,300italic,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">

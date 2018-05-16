@@ -7,7 +7,7 @@
                 <!--Content for large and medium screens-->
                 <div class="navbar-desktop">
                     <!--Navbar Brand-->
-                    <a class="navbar-brand" href="#home"><img src="assets/img/logo.png" alt="" /></a>
+                    <a class="navbar-brand" href="<?= base_url() ?>"><img src="<?= base_url('assets/img/logo.png'); ?>" alt="" /></a>
                     <!--Links-->
                     <ul class="nav navbar-nav pull-right hidden-md-down text-uppercase">
                         

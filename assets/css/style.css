@@ -115,7 +115,7 @@ input[type=date], input[type=datetime-local], input[type=email], input[type=numb
 .head_title p{
     width:75%;
     margin:0 auto;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
 }
 
 /*==========================================================
