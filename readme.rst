@@ -11,7 +11,7 @@ building with codeigniter framework , mariaDB and Admin LTE 3.0 bootstrap .
 project Moved to
 ************
 
-This aplication developh moved -> <https://github.com/TAZEN11/SOFAST>`_
+This aplication developh moved -> <https://github.com/TAZEN11/SOFAST.git>`_
 
 
 
